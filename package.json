@@ -1,0 +1,15 @@
+{
+  "name": "node-game-unit-tests",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT-0",
+  "dependencies": {
+    "chai": "4.3.4",
+    "mocha": "8.4.0"
+  }
+}
